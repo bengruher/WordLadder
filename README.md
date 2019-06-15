@@ -1,1 +1,2 @@
 # WordLadder
+Project assigned in CPSC 3400 Languages and Computation. We were given two files: dictionary.txt contained a list of all the valid words in the English language and pairs.txt is where the client would insert pairs of words to find solutions for. Word Ladder program finds shortest path between pairs of words, differing the word by only one letter each step. Words in pairs must be of the same length but any length is supported as long as both words in that particular pair are the same length.
